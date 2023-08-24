@@ -1,4 +1,4 @@
-# Simple TypeScript Script Example
+# Read Replicas example
 
 This example shows how to use database replication using the  [`@prisma/extension-read-replicas`](https://github.com/prisma/read-replicas-extension) extension in [Prisma Client](https://www.prisma.io/docs/reference/tools-and-interfaces/prisma-client) in a **simple TypeScript script** to read and write data in a PostgreSQL database. 
 
