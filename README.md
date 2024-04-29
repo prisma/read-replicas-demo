@@ -42,4 +42,3 @@ npm run dev
 
 - Check out the [Prisma docs](https://www.prisma.io/docs)
 - Create issues and ask questions on [GitHub](https://github.com/prisma/prisma/)
-- Watch our biweekly "What's new in Prisma" livestreams on [Youtube](https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w)
